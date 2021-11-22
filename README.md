@@ -7,6 +7,6 @@ Disciplina: Interface Hardware- Software
 
 ## Integrantes:
 
-Lucca Morosini Gioia(lmg2) \
+Lucca Morosini Gioia (lmg2) \
 Dayane Lira (dls6) \
 João Guilherme Monteiro 
